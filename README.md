@@ -49,8 +49,8 @@ Parmi les erreurs possibles :
 Exécution du programme
 -
 Une Makefile est fourni avec le programme. Pour lancer le programme, 
-simplement faire "make sudoku". Cela validera le contenu du fichier "test.txt". 
-Pour valider un Sudoku, mettre dans le fichier "test.txt" le Sudoku en question 
-en respectant le format demandé. Des exemples sont fournis dans "test.txt". Le 
+simplement faire `make sudoku`. Cela validera le contenu du fichier `test.txt`. 
+Pour valider un Sudoku, mettre dans le fichier `test.txt` le Sudoku en question 
+en respectant le format demandé. Des exemples sont fournis dans `test.txt`. Le 
 2e est valide, les trois autres comportent des erreurs pour démontrer les erreurs
 levées par le validateur.
